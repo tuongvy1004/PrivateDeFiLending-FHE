@@ -51,7 +51,6 @@ export const PrivateDeFiLendingDemo = () => {
     userBorrowAmount,
     userTotalRepay,
     hasActiveLoan,
-    isRefreshing,
     isDepositing,
     isSettingRate,
     isRequestingBorrow,
